@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76710970-400d-4d56-9573-6b664c29a631" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CSI APP PROTOTYPE/Contact Us Page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI APP PROTOTYPE/Feature Page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI APP PROTOTYPE/Home Page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI APP PROTOTYPE/Intro Screen 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI APP PROTOTYPE/Intro Screen 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI APP PROTOTYPE/Intro Screen 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI APP PROTOTYPE/Join Us Page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI APP PROTOTYPE/Nav Panel 1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI APP PROTOTYPE/Nav Panel 1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI APP PROTOTYPE/Outer Frame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI APP PROTOTYPE/Second Year Page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI APP PROTOTYPE/Service Domains.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI APP PROTOTYPE/Splash Screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/fonts/Cardicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/fonts/PlayfairDisplay-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/fonts/PlayfairDisplay-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/fonts/Poppins-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/fonts/Poppins-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/fonts/Poppins-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/fonts/Poppins-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/fonts/Poppins-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/fonts/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/icons/about us.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/icons/contact us.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/icons/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/icons/github-image.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/icons/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/icons/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/icons/join us.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/icons/linkedin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/icons/logocsiCenter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/icons/menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/icons/our features.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/icons/our team.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/icons/services.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/icons/website.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/icons/what we do.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/Contact Us.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/blockchainTech.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/cineBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/csi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/csi_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/drawer bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/fourthYear/Anchal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/fourthYear/Harsh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/fourthYear/aayush.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/fourthYear/abhishek.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/fourthYear/aditya.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/fourthYear/akhilesh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/fourthYear/anshika.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/fourthYear/ayushporwal3843.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/fourthYear/sonakshi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/fourthYear/vikalp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/graphicDev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/home_page_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/in_office.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/initiative.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/initiative/ini1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/initiative/ini2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/initiative/ini3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/initiative/ini4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/initiative/ini5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/initiative/ini6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/initiative/ini7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/initiative/ini8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/initiative/ini9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/join us.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/know us ob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/logocsiCenter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/mobileDev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ob1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ob2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ob3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/our feature page bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/our team bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/aadi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/aanchal.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/abhishek.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/alok.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/amit.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/ankish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/bhawana.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/gaurav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/harsh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/muskan.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/pragati.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/pramod.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/priyam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/rathi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/saumya.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/saxena.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/shashwat.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/shubh.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/siddhartha.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/sonali.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/subhanshu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/ujjawal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/vats.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/ourAlumni/yashvi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/rdm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/service domains.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/started ob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/team ob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/AKANKSHA GUPTA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/Aditi Mishra.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/Akash Gupta.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/Aman Tyagi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/Anisha Srivastava.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/Ankit Yadav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/Apurv Rai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/Ayush.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/Ayushi Singh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/Ayushi Tyagi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/Deepak Gupta.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/Divykant Sengar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/Harsh Vardhan Singh.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/Keshav Arora.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/Niharika Varshney.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/Prerit Mishra.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/Rajat Mangat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/Satyam Singh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/Ujjwal Agarwal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/thirdYear/yash jaiswal.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/vacanza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/vacanza/vac1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/vacanza/vac2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/vacanza/vac3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/vacanza/vac4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/vacanza/vac5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/vacanza/vac6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/vacanza/vac7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/vacanza/vac8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/vacanza/vac9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/we create bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/webDev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/a1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/a2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/a3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/a4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/a5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/a6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/a8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/b1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/b2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/b3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/b4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/b5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/b6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/b7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/b8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/j1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/j2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/j3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/j4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/j6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/j7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/j8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/u1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/u2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/u3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/u4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/u5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/u6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/web1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/web2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/web3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/assets/images/workshops/web4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/LaunchBackground.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/LaunchBackground.imageset/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/web/splash/img/dark-1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/web/splash/img/dark-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/web/splash/img/dark-3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/web/splash/img/dark-4x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/web/splash/img/light-1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/web/splash/img/light-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/web/splash/img/light-3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/web/splash/img/light-4x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csi/web/splash/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Harsh Vardhan Singh\.android\avd\Nexus_6_API_28.avd]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="1z2ROG5utxcGC9JTxTRtXB9085U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AndroidStudioProjects/fluttershare" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\91827\Desktop\CSI\csi\assets\icons" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\91827\Desktop\CSI\csi\assets\images\thirdYear" />
+      <recent name="C:\Users\91827\Desktop\CSI\csi\assets\images\ourAlumni" />
+      <recent name="C:\Users\91827\Desktop\CSI\csi\assets\images\fourthYear" />
+      <recent name="C:\Users\91827\Desktop\CSI\csi\assets\images" />
+      <recent name="C:\Users\91827\Desktop\CSI\csi\assets\icons" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/csi/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76710970-400d-4d56-9573-6b664c29a631" name="Default Changelist" comment="" />
+      <created>1633344162163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633344162163</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
